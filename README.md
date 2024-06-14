@@ -18,3 +18,15 @@ The tables are connected in the following way:
   <li> **nume tabela 2**  The "movies" table stores information about movies, such as movie_id, movie_title, movie_gen, movie_description and user_id. user_id is a foreign key that is linked to user_id from the "users" table.</li>
   <li> **nume tabela 3**  Tabela "reserved" stocheaza informatii despre rezervari, cum ar fi reserved_id, reserved_ticket, ticket_price, user_id si movie_id. user_id si movie_id sunt chei straine care sunt legate de user_id din tabela "users" si movie_id din tabela "movies", respectiv.</li>
 </ul><br>
+
+<li>Database Queries</li><br>
+
+<ol type="a">
+  <li>DDL (Data Definition Language)</li>
+
+  The following instructions were written in the scope of CREATING the structure of the database (CREATE INSTRUCTIONS)
+
+  ...
+
+
+
